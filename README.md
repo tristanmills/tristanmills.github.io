@@ -1,2 +1,2 @@
-tristanmills.github.com
+tristanmills.github.io
 =======================
